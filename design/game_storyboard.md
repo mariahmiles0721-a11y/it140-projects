@@ -7,26 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+A mystery adventure where the player explores different rooms to collect six important items before confronting the villain.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player is trapped in a mysterious building and must explore eight different rooms to collect six magical items: an Ancient Book, Silver Knife, Golden Goblet, Magic Mirror, Spell Scroll, and Crystal Ball. The player must collect all six items before entering the Attic, where the Ghost is waiting. If the player encounters the Ghost before collecting all six items, the player loses. If all six items are collected first, the player can defeat the Ghost and win the game.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
+1. Foyer - Start room
+2. Library
+3. Kitchen
+4. Dining Room
+5. Bedroom
+6. Study
+7. Basement
+8. Attic - Villain room
 Add more rooms if your design needs them.
 
 ## Items
@@ -34,19 +32,18 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
+1. Ancient Book
+2. Silver Knife
+3. Golden Goblet
+4. Magic Mirror
+5. Spell Scroll
+6. Crystal Ball
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Shadow Master - A mysterious villain hiding in the Attic who the player must defeat after collecting all six items.
 
 ## Storyboard and Map Check
 
